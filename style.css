@@ -1,3 +1,155 @@
 .todo-item {
   display: flex;
 }
+
+hr{
+
+  margin-top: 20px;
+}
+.bg{
+  background-color: rgb(124, 185, 235);
+  background-image: url("https://previews.123rf.com/images/mongstock/mongstock1703/mongstock170300096/73781290-fondo-de-pared-de-negocios-bombilla-concepto-de-nuevas-ideas-con-innovaci%C3%B3n-y-creatividad-.jpg");
+  
+}
+
+.Reminders{
+  font-size:40px;
+color: black;
+font-family: 'Concert One', cursive;
+margin-top: 40px;
+margin-bottom: 5px;
+font-weight: bold;
+}
+
+.todolist{
+  font-size:30px;
+color: black;
+font-family: 'Concert One', cursive;
+margin-top: 10px;
+margin-bottom: 30px;
+}
+
+.box_title{
+  font-size:15px;
+color: black;
+font-family: 'Concert One', cursive;
+margin-top: 10px;
+margin-bottom: 3px;
+position:left;
+}
+
+.Label_Category{
+  margin-top: 80px;
+  margin-right: 0px;
+  font-size: 20px;
+  font-family: 'Concert One', cursive;
+  font-weight: bold;
+}
+.Category_Input{
+  margin-top: 10px;
+  margin-right: 5px;
+  font-size:medium;
+  background-color: rgb(248, 235, 247);
+  border-color: rgb(106, 98, 93);
+   border-radius:10px;
+   height: 30px;
+   width:200px;
+   font-family: 'Concert One', cursive;
+}
+.createbutton{
+  background-color: rgb(227, 172, 221);
+  border-radius: 10px;
+  color: white;
+  font-size: medium;
+  border-color:rgb(237, 229, 229) ;
+  height: 30px;
+  font-family: 'Concert One', cursive;
+  
+}
+.task_list{
+  font-size:medium;
+  background-color: rgb(237, 237, 237);
+  border-color: rgb(237, 237, 237);
+   border-radius:10px;
+   height: 30px;
+   width:100px;
+   /* margin-right:150px; */
+   position:relative;
+   right: 10px;
+   font-family: 'Concert One', cursive;
+   
+}
+.task_input{
+  margin-top: 10px;
+  /* margin-right:100px; */
+  position :relative;
+  /* right:5px; */
+  font-size:medium;
+  background-color: rgb(237, 237, 237);
+  border-color: rgb(237, 237, 237);
+   border-radius:10px;
+   height: 30px;
+   width:350px;
+   border:0px;
+   font-family: 'Concert One', cursive;
+}
+.task_button{
+  background-color: rgb(227, 172, 221);
+  border-radius:100px;
+  color: rgb(249, 245, 245);
+  font-size: medium;
+  border-color:rgb(234, 226, 225) ;
+  font-family: 'Concert One', cursive;
+}
+.filter{
+
+  font-size:medium;
+  position: relative;
+  right:10px;
+  font-family: 'Concert One', cursive;
+}
+.listFilter{
+  font-size:medium;
+  background-color: rgb(237, 237, 237);
+  border-color: rgb(237, 237, 237);
+   border-radius:10px;
+   height: 30px;
+   width:200px;
+   position:relative;
+   right: 10px;
+   font-family: 'Concert One', cursive;
+}
+.Buttonfilter{
+  background-color: rgb(227, 172, 221);
+  border-radius:10px;
+  color: white;
+  font-size: medium;
+  border-color:rgb(253, 255, 254) ;
+  position: relative;
+  right:10px;
+  font-family: 'Concert One', cursive;
+}
+.Donecheck{
+position: relative;
+right:200px;
+font-family: 'Concert One', cursive;
+align-items: center;
+justify-content: center;
+}
+.done_filter{
+  position: relative;
+  right: 200px;
+  font-family: 'Concert One', cursive;
+}
+
+
+.box {
+  height :300px;
+  width :500px;
+  background-color: rgb(151, 194, 203);
+  border-radius:10px; 
+  box-shadow: 0px 0px 20px 3px rgb(59, 55, 54);
+  margin-top: 25px;
+  padding: 10px;
+  
+}
