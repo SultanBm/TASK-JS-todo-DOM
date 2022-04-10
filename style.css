@@ -135,6 +135,7 @@ right:200px;
 font-family: 'Concert One', cursive;
 align-items: center;
 justify-content: center;
+margin-top: 10px;
 }
 .done_filter{
   position: relative;
